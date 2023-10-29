@@ -1,0 +1,11 @@
+============================= test session starts =============================
+collecting ... collected 5 items
+
+issue3.py::TestOneHot::test_apple PASSED                                 [ 20%]
+issue3.py::TestOneHot::test_banana PASSED                                [ 40%]
+issue3.py::TestOneHot::test_empty PASSED                                 [ 60%]
+issue3.py::TestOneHot::test_hello_world PASSED                           [ 80%]
+issue3.py::TestOneHot::test_sandwich PASSED                              [100%]
+
+============================== 5 passed in 0.02s ==============================
+Process finished with exit code 0
