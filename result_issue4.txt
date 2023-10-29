@@ -1,0 +1,11 @@
+============================= test session starts =============================
+collecting ... collected 5 items
+
+issue4.py::test_hello_world PASSED                                       [ 20%]
+issue4.py::test_single_input PASSED                                      [ 40%]
+issue4.py::test_multiple_inputs PASSED                                   [ 60%]
+issue4.py::test_str_number PASSED                                        [ 80%]
+issue4.py::test_empty_input PASSED                                       [100%]
+
+============================== 5 passed in 0.02s ==============================
+Process finished with exit code 0

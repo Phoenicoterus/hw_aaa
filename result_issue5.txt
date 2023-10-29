@@ -1,0 +1,9 @@
+============================= test session starts =============================
+collecting ... collected 3 items
+
+issue5.py::TestWhatIsYearNow::test_dmy PASSED                            [ 33%]
+issue5.py::TestWhatIsYearNow::test_invalid_format PASSED                 [ 66%]
+issue5.py::TestWhatIsYearNow::test_ymd PASSED                            [100%]
+
+============================== 3 passed in 0.11s ==============================
+Process finished with exit code 0
